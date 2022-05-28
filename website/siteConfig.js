@@ -86,7 +86,7 @@ const siteConfig = {
   // On page navigation for the current documentation page.
   onPageNav: "separate",
 
-  facebookAppId: "",
+  facebookAppId: "100004166048079",
   facebookComments: true,
 
   // No .html extensions for paths.
